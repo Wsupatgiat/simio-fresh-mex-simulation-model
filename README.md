@@ -1,5 +1,4 @@
 # Simio Fresh Mex Case Study Simulation Model
-___
 ## Overview
 This repository contains the simulation model developed for the [Simio Spring 2024 Fresh Mex Case Study](https://www.simio.com/academic-case-studies/simio-fresh-mex/). The model optimizes the restaurant operations to minimize labor costs by focusing on:
 - **Staffing Requirements**: Number and allocations of workers.
